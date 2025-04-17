@@ -41,8 +41,8 @@
 
 ### 2. استخدام النموذج (Form)
 
-- افتح الصفحة في المتصفح عبر الرابط:  
-  `http://localhost/index.php`
+- افتح الصفحة في المتصفح عبر الرابط:
+  [http://localhost/laravel-module-structure](http://localhost/laravel-module-structure)
 - ستجد نموذج يحتوي على:
 
   - **المجلد المستهدف**: المسار الكامل للمجلد الذي تريد نسخه (مثلاً: `C:/Users/eslam/Desktop/demo`).
