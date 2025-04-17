@@ -43,9 +43,9 @@
 - 📁 مجلد
 - 📄 ملف
 
-#### Example
+#### مثال
 
-Volume structure: Orders
+هيكل الحجم: Orders
 
 - 📁 Databas
   - 📁 Migratio
