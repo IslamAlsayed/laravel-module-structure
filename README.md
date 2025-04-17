@@ -1,5 +1,10 @@
 # 🚀 Laravel Module Structure
 
+🛠️ أداة لتحويل مجلد إلى وحدة Laravel متكاملة.
+
+> [![Star](https://img.shields.io/github/stars/IslamAlsayed/laravel-module-structure.svg?style=social)](https://github.com/IslamAlsayed/laravel-module-structure/stargazers) 💡 إذا أعجبك المشروع، لا تنسَ تعمل ⭐ Star!
+
+
 > ⚠️ **تنبيه هام جدًا**
 >
 > يُفضل تجربة المشروع أولاً على مجلد تجريبي قبل استخدامه على مشروع فعلي.  
@@ -237,12 +242,24 @@
 - أو قدم Pull Request.
 
 ---
+## ❤️ الدعم
+
+إذا استفدت من هذا المشروع، من فضلك:
+
+- اعمل ⭐ Star للمستودع
+- شاركه مع من تعتقد أنه سيستفيد
+- أو تابعني على GitHub لمزيد من المشاريع
+
+شكرًا لك! ☺️❤️
+
+---
 
 ## ➖ 📬 تواصل معي
 
 - 📧 **الإيميل**: [eslamalsayed8133@gmail.com](mailto:eslamalsayed8133@gmail.com)
 - 💼 **لينكدإن**: [IslamAlsayed](https://www.linkedin.com/in/islam-alsayed7)
 - 💼 **فيسبوك**: [IslamAlsayed](https://www.facebook.com/islamalsayed00)
+
 
 ---
 
