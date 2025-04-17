@@ -13,7 +13,7 @@ form {
     padding: 20px;
     border-radius: 10px;
     max-width: 600px;
-    margin: auto;
+    margin: 0 auto 20px;
 }
 
 input[type="text"] {
@@ -53,7 +53,7 @@ button:hover {
     background: #fff3cd;
     padding: 10px;
     border-left: 5px solid #ffc107;
-    margin-top: 20px;
+    margin-bottom: 20px;
     border-radius: 6px;
 }
 

@@ -11,6 +11,10 @@
 
     <h3>🚀 منشئ موديولات Laravel (معتمد على nwidart/laravel-modules)</h3>
 
+    <div class="note">
+        ⚠️ <strong>تحذير:</strong> يُفضل تجربة السكريبت في مشروع او مسار تجريبي أولًا، ومراجعة الملفات بعد النقل.
+    </div>
+
     <?php if (isset($_GET['message'])): ?>
         <div class="msg"><?= htmlspecialchars($_GET['message']) ?></div>
         <script>
@@ -28,7 +32,7 @@
 
     <form method="POST" action="./script.php">
         <label>📁 مسار ال folder المستهدف (اللي هيتحول ل module):</label>
-        <input type="text" name="targetSource" placeholder="مثال: /base-folder/target-project" value="C:\xampp\htdocs\moduler-structure\Structure\orders" required>
+        <input type="text" name="targetSource" placeholder="مثال: /base-folder/target-project" required>
 
         <label>📂 المكان اللي هيتعمل فيه ال module الجديد:</label>
         <input type="text" name="destinationSource" placeholder="مثال: /base-project/Modules" required>
