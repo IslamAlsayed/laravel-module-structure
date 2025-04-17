@@ -75,7 +75,7 @@
 - ✅ السكريبت يقوم بالتعديلات التالية على محتوى الملفات:
   - مثل ال namespace ➤ يتم تعديله ليتماشى مع هيكل Laravel للوحدات (مثلاً: Modules\BlogModule\Http\Controllers بدلاً من App\Http\Controllers).
   - و `...\use App\Models` ➤ يتم تعديله إلى:   `...\use Modules\ModuleName\Entities` بشكل تلقائي حسب موقع الملف الجديد.
-  - أي استخدام مباشر لـ `...\App\Models` ➤ يتم تعديله كذلك إلى `...\Modules\ModuleName\Entities\`
+  - أي استخدام مباشر لـ `...\App\Models\` ➤ يتم تعديله كذلك إلى `...\Modules\ModuleName\Entities\`
   - أسماء الكلاسات في بعض الملفات ➤ يتم تحديثها لتتوافق مع اسم الوحدة الجديد (مثلاً: BlogController فيُصبح OrderController).
   - تحديث جميع المسارات داخل الملفات (مثل include أو require أو use) لتتطابق مع مواقع الملفات الجديدة بعد النقل.
 
