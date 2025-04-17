@@ -47,7 +47,7 @@
 
 هيكل الحجم: Orders
 
-- 📁 Databas
+- 📁 Database
   - 📁 Migratio
     - 📄 2024_03_01_175602_create_order_items_table.php
     - 📄 2024_03_01_175702_create_orders_table.php
@@ -100,8 +100,21 @@
       - 📄 add.blade.php
       - 📄 index.blade.php
       - 📄 show.blade.php
+- 📁 Providers
+  - 📄 ModuleNameServiceProvider.php
+  - 📄 RouteServiceProvider.php
 - 📁 Services
   - 📄 GeneralServices.php
+- 📁 Routes
+  - 📄 api.php
+  - 📄 web.php
+- 📁 Tests
+  - 📁 Feature
+  - 📁 Unit
+- composer.json
+- module.json
+- package.json
+- vite.config.js
 
 يعرض السكربت هيكل المجلدات بشكل متداخل بعمق يصل إلى 10 مستويات (يمكن تعديله داخل الكود إذا رغبت، لكن ليس مطلوبًا).
 
